@@ -1,1 +1,1 @@
-CREATE TABLE Students (ID INT, Name TEXT);
+CREATE TABLE Students (studentID INT, Name TEXT);
